@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.4.0)
+    motion_data_wrapper (0.0.7)
+      bubble-wrap
+    rake (10.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  motion_data_wrapper
+  rake
